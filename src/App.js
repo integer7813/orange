@@ -98,7 +98,6 @@ function App() {
   const [topics, setTopics] = useState(initialTopics);
   const [nextId, setNextId] = useState(11);
 
-  // ✅ 앱 시작할 때 localStorage에서 데이터 불러오기
   useEffect(() => {
     const savedTopics = localStorage.getItem('topics');
     if (savedTopics) {
@@ -106,7 +105,6 @@ function App() {
     }
   }, []);
 
-  // ✅ topics가 변경될 때마다 localStorage에 저장
   useEffect(() => {
     localStorage.setItem('topics', JSON.stringify(topics));
   }, [topics]);
