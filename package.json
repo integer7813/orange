@@ -2,7 +2,7 @@
   "name": "react-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://integer7813.github.io/React_My_OrangeWorld",
+  "homepage": "https://integer7813.github.io/orange",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
