@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/orange/static/css/main.6e0ac6a6.css",
+    "main.js": "/orange/static/js/main.ffbc290b.js",
+    "static/js/453.17882521.chunk.js": "/orange/static/js/453.17882521.chunk.js",
+    "index.html": "/orange/index.html",
+    "main.6e0ac6a6.css.map": "/orange/static/css/main.6e0ac6a6.css.map",
+    "main.ffbc290b.js.map": "/orange/static/js/main.ffbc290b.js.map",
+    "453.17882521.chunk.js.map": "/orange/static/js/453.17882521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0ac6a6.css",
+    "static/js/main.ffbc290b.js"
+  ]
+}
