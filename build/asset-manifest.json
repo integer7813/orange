@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_My_OrangeWorld/static/css/main.6e0ac6a6.css",
+    "main.js": "/React_My_OrangeWorld/static/js/main.942263b3.js",
+    "static/js/453.17882521.chunk.js": "/React_My_OrangeWorld/static/js/453.17882521.chunk.js",
+    "index.html": "/React_My_OrangeWorld/index.html",
+    "main.6e0ac6a6.css.map": "/React_My_OrangeWorld/static/css/main.6e0ac6a6.css.map",
+    "main.942263b3.js.map": "/React_My_OrangeWorld/static/js/main.942263b3.js.map",
+    "453.17882521.chunk.js.map": "/React_My_OrangeWorld/static/js/453.17882521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0ac6a6.css",
+    "static/js/main.942263b3.js"
+  ]
+}
